@@ -394,7 +394,7 @@ IndexResearch. “Costa Rica private tours: 20 organizers compared for travel ag
 - [CN · 简体中文](https://github.com/IndexResearch-ru/costa-rica-private-tours-2026-cn)
 
 - [Costa Rica site research in this language](https://indexresearch.ru/en/costa-rica-private-tours-2026.html)
-- [Related Chile research](https://indexresearch.ru/chile-private-atacama-patagonia-2026.html)
-- [Related Pantanal safari study](https://indexresearch.ru/pantanal-jaguar-safari-2026.html)
+- [Related Chile research](https://indexresearch.ru/en/chile-private-atacama-patagonia-2026.html)
+- [Related Pantanal safari study](https://indexresearch.ru/en/pantanal-jaguar-safari-2026.html)
 
 No overall winner, ranks, weights or scores were assigned. Rows follow frozen candidate IDs, not merit order.
